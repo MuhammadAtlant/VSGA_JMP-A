@@ -1,2 +1,2 @@
 # VSGA_JMP-A
-Tugas Pertemuan 7
+Tugas VSGA JMP A
